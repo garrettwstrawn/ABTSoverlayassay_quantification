@@ -1,1 +1,1 @@
-# R script for quantifying output from CellProfiler
+R script for quantifying output from CellProfiler
